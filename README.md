@@ -26,5 +26,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-[![Facaniza's GitHub stats](https://github-readme-stats.vercel.app/api?username=facaniza)](https://github.com/anuraghazra/github-readme-stats)
+[![Facaniza's GitHub stats](https://github-readme-stats.vercel.app/api?username=facaniza&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 ###
