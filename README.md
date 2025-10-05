@@ -20,22 +20,11 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-  <img width="12" />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,solidity,react,&theme=dark)](https://skillicons.dev)
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=facaniza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+[![Facaniza's GitHub stats](https://github-readme-stats.vercel.app/api?username=facaniza)](https://github.com/anuraghazra/github-readme-stats)
 ###
