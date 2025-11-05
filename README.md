@@ -20,7 +20,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,solidity,react,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,solidity,react,nextjs,&theme=dark)](https://skillicons.dev)
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
